@@ -1,2 +1,0 @@
-org/testing/Hello_test.java
- org.testing.Hello_test
