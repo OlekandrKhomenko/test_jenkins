@@ -65,4 +65,10 @@
     </task>
     <servers />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="241" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605184656903">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="572" y="241" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032/1920.0.1920.1032@0.0.1920.1032" timestamp="1605184656903" />
+  </component>
 </project>
